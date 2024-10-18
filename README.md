@@ -10,7 +10,7 @@ Make sure you have the following installed on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/batur1n/sporty_wap_test.git
 cd your-repo-name
 ```
 
