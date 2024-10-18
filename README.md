@@ -35,3 +35,12 @@ pip install -r requirements.txt
 ```bash
 pytest test_twitch_streamer_page.py
 ```
+
+### Project structure
+```bash
+.
+├── conftest.py               # WebDriver setup using Pytest fixtures
+├── requirements.txt          # List of dependencies
+├── test_twitch_logo.py       # Test to verify that Twitch logo is visible
+└── README.md                 # Project documentation
+```
