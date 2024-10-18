@@ -1,8 +1,8 @@
 ## Test execution results:
 
-![image](https://github.com/user-attachments/assets/68a1c949-0c23-40c6-a1aa-cf01791727e3)
+![image](https://github.com/user-attachments/assets/68a1c949-0c23-40c6-a1aa-cf01791727e3 | width=200)
 
-![image](https://github.com/user-attachments/assets/6cfc9eca-943e-4922-9221-08112aa633ef)
+![image](https://github.com/user-attachments/assets/6cfc9eca-943e-4922-9221-08112aa633ef | width=200)
 
 ## Prerequisites
 
