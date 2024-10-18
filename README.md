@@ -41,6 +41,6 @@ pytest test_twitch_streamer_page.py
 .
 ├── conftest.py               # WebDriver setup using Pytest fixtures
 ├── requirements.txt          # List of dependencies
-├── test_twitch_logo.py       # Test to verify that Twitch logo is visible
+├── test_twitch_logo.py       # Test which opens Twitch streamer page and takes a screenshot
 └── README.md                 # Project documentation
 ```
